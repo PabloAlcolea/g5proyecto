@@ -1,0 +1,46 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-11-14 17:14:22 #1 store] 
+Database 'C:\Users\ikerg\git\g5proyecto\src\main\resources\rides.temp' is opened by 9016@LAPTOP-9A2MV3ED
+
+[2024-11-14 17:14:22 #2 type.registry] 
+New type domain.Driver
+
+[2024-11-14 17:14:22 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-11-14 17:14:22 #4 type.registry] 
+New type domain.Ride
+
+[2024-11-14 17:14:22 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-11-14 17:14:22 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-11-14 17:14:22 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-11-14 17:44:45 #1 store] 
+Database 'C:\Users\ikerg\git\g5proyecto\src\main\resources\rides.temp' is opened by 7368@LAPTOP-9A2MV3ED
+
+[2024-11-14 17:44:45 #2 type.registry] 
+New type domain.Driver
+
+[2024-11-14 17:44:45 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-11-14 17:44:45 #4 type.registry] 
+New type domain.Ride
+
+[2024-11-14 17:44:45 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-11-14 17:44:45 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-11-14 17:44:45 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
